@@ -1,1 +1,1 @@
-# InregralDistribuida
+# IntegralDistribuida
