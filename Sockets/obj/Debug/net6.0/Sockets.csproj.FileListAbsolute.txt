@@ -1,0 +1,15 @@
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\bin\Debug\net6.0\Sockets.exe
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\bin\Debug\net6.0\Sockets.deps.json
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\bin\Debug\net6.0\Sockets.runtimeconfig.json
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\bin\Debug\net6.0\Sockets.dll
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\bin\Debug\net6.0\Sockets.pdb
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Debug\net6.0\Sockets.csproj.AssemblyReference.cache
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Debug\net6.0\Sockets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Debug\net6.0\Sockets.AssemblyInfoInputs.cache
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Debug\net6.0\Sockets.AssemblyInfo.cs
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Debug\net6.0\Sockets.csproj.CoreCompileInputs.cache
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Debug\net6.0\Sockets.dll
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Debug\net6.0\refint\Sockets.dll
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Debug\net6.0\Sockets.pdb
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Debug\net6.0\Sockets.genruntimeconfig.cache
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Debug\net6.0\ref\Sockets.dll

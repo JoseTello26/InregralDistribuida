@@ -1,0 +1,15 @@
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Socket_Cliente\bin\Debug\net6.0\Socket_Cliente.exe
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Socket_Cliente\bin\Debug\net6.0\Socket_Cliente.deps.json
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Socket_Cliente\bin\Debug\net6.0\Socket_Cliente.runtimeconfig.json
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Socket_Cliente\bin\Debug\net6.0\Socket_Cliente.dll
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Socket_Cliente\bin\Debug\net6.0\Socket_Cliente.pdb
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Socket_Cliente\obj\Debug\net6.0\Socket_Cliente.csproj.AssemblyReference.cache
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Socket_Cliente\obj\Debug\net6.0\Socket_Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Socket_Cliente\obj\Debug\net6.0\Socket_Cliente.AssemblyInfoInputs.cache
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Socket_Cliente\obj\Debug\net6.0\Socket_Cliente.AssemblyInfo.cs
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Socket_Cliente\obj\Debug\net6.0\Socket_Cliente.csproj.CoreCompileInputs.cache
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Socket_Cliente\obj\Debug\net6.0\Socket_Cliente.dll
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Socket_Cliente\obj\Debug\net6.0\refint\Socket_Cliente.dll
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Socket_Cliente\obj\Debug\net6.0\Socket_Cliente.pdb
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Socket_Cliente\obj\Debug\net6.0\Socket_Cliente.genruntimeconfig.cache
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Socket_Cliente\obj\Debug\net6.0\ref\Socket_Cliente.dll

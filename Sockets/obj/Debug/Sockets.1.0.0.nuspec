@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Sockets</id>
+    <version>1.0.0</version>
+    <authors>Sockets</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\bin\Debug\net6.0\Sockets.runtimeconfig.json" target="lib\net6.0\Sockets.runtimeconfig.json" />
+    <file src="C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\bin\Debug\net6.0\Sockets.dll" target="lib\net6.0\Sockets.dll" />
+  </files>
+</package>
