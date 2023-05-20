@@ -89,7 +89,7 @@ namespace Sockets
             function.function = list;
             function.a = a;
             function.b = b;
-            function.steps= steps;
+            function.segmentos= steps;
             function.threads= threads;
 
             return function;

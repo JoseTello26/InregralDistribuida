@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sockets_Server", "Sockets\Sockets_Server.csproj", "{FD27BA98-68E9-44C6-81BA-4101C5D1B0C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Socket_Server", "Sockets\Socket_Server.csproj", "{FD27BA98-68E9-44C6-81BA-4101C5D1B0C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socket_Cliente", "Socket_Cliente\Socket_Cliente.csproj", "{A7621744-D5C9-41F7-AB48-2AEFDE4590A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Socket_Cliente", "Socket_Cliente\Socket_Cliente.csproj", "{A7621744-D5C9-41F7-AB48-2AEFDE4590A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

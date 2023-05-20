@@ -13,8 +13,9 @@ namespace Sockets.Cliente
 {
     internal class Cliente
     {
+        //private string IP = "10.128.0.7";
         private string IP = "127.0.0.1";
-        private int PORT = 4444;
+        private int PORT = 3000;
         TcpClient tcpClient;
         StreamWriter output;
         double RESULTADO = 0;
@@ -29,28 +30,38 @@ namespace Sockets.Cliente
             Thread t = new Thread(new ThreadStart(ThreadProc));
             t.Start();
             string mensaje = "n";
-            Console.Write("Ingrese mensaje: ");
+            //Console.Write("Ingrese mensaje (s para salir): ");
+            /*
             while (!mensaje.Equals("s"))
             {
                 mensaje = Console.ReadLine();
-                ClienteEnvia(mensaje);
-            }
-            Console.WriteLine("Adios");
+            }*/
+            Console.WriteLine("Esperando funcion...");
         }
 
         public void ThreadProc()
         {
             tcpClient = new TcpClient(IP, PORT);
+            Console.WriteLine("Conectado a "+ IP + ":"+ PORT);
             while (true)
             {
-                byte[] data = new byte[256];
-                string responseData = string.Empty;
-                int bytes = tcpClient.GetStream().Read(data, 0, data.Length);
-                responseData = Encoding.ASCII.GetString(data, 0, bytes);
-                Function f = JsonSerializer.Deserialize<Function>(responseData);
-                Console.WriteLine("De " + f.a + " a " + f.b);
-                RESULTADO = Operacion.integrar(f);
-                ClienteEnvia(RESULTADO.ToString());
+                try {
+                    byte[] data = new byte[256];
+                    string responseData = string.Empty;
+                    int bytes = tcpClient.GetStream().Read(data, 0, data.Length);
+                    responseData = Encoding.ASCII.GetString(data, 0, bytes);
+                    Function f = JsonSerializer.Deserialize<Function>(responseData);
+
+                    //f.threads = 10;
+
+                    Console.WriteLine("De " + f.a + " a " + f.b);
+                    RESULTADO = Operacion.integrar(f);
+                    ClienteEnvia(@"{""result"": " + RESULTADO.ToString() + " }");
+                }
+                catch(Exception ex) { 
+                    Console.WriteLine("Adios");
+                    break;
+                }
             }
         }
 

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JoseTello\\Documents\\VSC\\C#\\Sockets\\Sockets\\Sockets_Server.csproj",
-      "projectName": "Sockets_Server",
-      "projectPath": "C:\\Users\\JoseTello\\Documents\\VSC\\C#\\Sockets\\Sockets\\Sockets_Server.csproj",
+      "projectUniqueName": "C:\\Users\\JoseTello\\Documents\\VSC\\C#\\Sockets\\Sockets\\Socket_Server.csproj",
+      "projectName": "Socket_Server",
+      "projectPath": "C:\\Users\\JoseTello\\Documents\\VSC\\C#\\Sockets\\Sockets\\Socket_Server.csproj",
       "packagesPath": "C:\\Users\\JoseTello\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\JoseTello\\Documents\\VSC\\C#\\Sockets\\Sockets\\obj\\",
       "projectStyle": "PackageReference",

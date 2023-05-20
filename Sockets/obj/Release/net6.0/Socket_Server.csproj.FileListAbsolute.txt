@@ -1,0 +1,15 @@
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\bin\Release\net6.0\Socket_Server.exe
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\bin\Release\net6.0\Socket_Server.deps.json
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\bin\Release\net6.0\Socket_Server.runtimeconfig.json
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\bin\Release\net6.0\Socket_Server.dll
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\bin\Release\net6.0\Socket_Server.pdb
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Release\net6.0\Socket_Server.csproj.AssemblyReference.cache
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Release\net6.0\Socket_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Release\net6.0\Socket_Server.AssemblyInfoInputs.cache
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Release\net6.0\Socket_Server.AssemblyInfo.cs
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Release\net6.0\Socket_Server.csproj.CoreCompileInputs.cache
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Release\net6.0\Socket_Server.dll
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Release\net6.0\refint\Socket_Server.dll
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Release\net6.0\Socket_Server.pdb
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Release\net6.0\Socket_Server.genruntimeconfig.cache
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\obj\Release\net6.0\ref\Socket_Server.dll

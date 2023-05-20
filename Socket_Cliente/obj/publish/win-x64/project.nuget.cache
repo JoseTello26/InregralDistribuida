@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y8HI1COi3yf0q/282pmLYjZkyWhj3ycScn5jdg0dH664nViX799i+0oItVwJ82ppDO04A4SaDvGvA2sZ7kOXoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JoseTello\\Documents\\VSC\\C#\\Sockets\\Socket_Cliente\\Socket_Cliente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JoseTello\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.13\\microsoft.netcore.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\JoseTello\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\JoseTello\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.13\\microsoft.aspnetcore.app.runtime.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

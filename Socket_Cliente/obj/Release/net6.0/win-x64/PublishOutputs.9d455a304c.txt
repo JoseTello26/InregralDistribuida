@@ -1,0 +1,2 @@
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Socket_Cliente\Socket_Cliente.pdb
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Socket_Cliente\Socket_Cliente.exe

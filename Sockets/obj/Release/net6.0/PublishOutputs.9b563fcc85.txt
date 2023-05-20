@@ -1,0 +1,5 @@
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\Sockets_Server.exe
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\Sockets_Server.dll
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\Sockets_Server.deps.json
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\Sockets_Server.runtimeconfig.json
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\Sockets_Server.pdb

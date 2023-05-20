@@ -32,15 +32,23 @@ namespace Sockets
 
             double result = 0;
             string[] terms = polinomio.Split('+', '-'); // Dividir en términos
+            int cont = 0;
 
-            foreach (string term in terms)
+            foreach (string t in terms)
             {
+                String term=t;
+                
                 if (string.IsNullOrWhiteSpace(term))
                     continue;
-
+                if (polinomio.IndexOf(term, cont)!=0 && polinomio[polinomio.IndexOf(term, cont) -1].Equals('-'))
+                {
+                    term = String.Concat("-", term);
+                    //Console.WriteLine("Negativo");
+                }
+                cont += term.Length;
                 double coef;
                 double exp = 0;
-
+                
                 if (term.Contains("x"))
                 {
                     string[] parts = term.Split('x');
@@ -79,17 +87,13 @@ namespace Sockets
                 double[] e = { coef_exp[0], coef_exp[1] };
                 //Console.WriteLine(coef + " " + exp);
                 list.Add(e);
-                foreach (double[] c in list)
-                {
-                    Console.WriteLine(c[0] + " " + c[1]);
-                }
 
                 //result += coef * Math.Pow(x, exp);
             }
             function.function = list;
             function.a = a;
             function.b = b;
-            function.steps= steps;
+            function.segmentos= steps;
             function.threads= threads;
 
             return function;

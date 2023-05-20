@@ -11,7 +11,7 @@ namespace Sockets
         public IList<double[]> function { get; set; }
         public double a { get; set; }
         public double b { get; set; }
-        public int steps { get; set; }
+        public int segmentos { get; set; }
         public int threads { get; set; }
     }
 }

@@ -39,7 +39,7 @@ namespace Sockets.Cliente
             double[] sumas = new double[f.threads];
             object value = 0;
 
-            Console.WriteLine("USANDO " + f.steps + " PASOS Y " + f.threads + " THREADS");
+            Console.WriteLine("USANDO " + f.segmentos + " PASOS Y " + f.threads + " THREADS");
 
             Thread[] T = new Thread[f.threads];
             for (int i = 0; i < f.threads; ++i)
@@ -47,7 +47,7 @@ namespace Sockets.Cliente
                 T[i] = new Thread((index) =>
                 {
                     int i = (int)index;
-                    sumas[i] = integrarThreads(f, f.a + i * size, f.a + (i + 1) * size, f.steps);
+                    sumas[i] = integrarThreads(f, f.a + i * size, f.a + (i + 1) * size, f.segmentos);
                 });
                 T[i].Start(i);
             }

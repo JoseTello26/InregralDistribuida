@@ -1,0 +1,2 @@
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\Socket_Server.pdb
+C:\Users\JoseTello\Documents\VSC\C#\Sockets\Sockets\Socket_Server

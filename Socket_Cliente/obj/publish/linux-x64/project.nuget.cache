@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o9Lio9XYRPoVJmYIj6p2nIG7pd3y1CNUaNec+CRMnS2km0iPcKGBaRRJUonrOvbQpVFHzP0Ko4lw3GyOl9qhxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JoseTello\\Documents\\VSC\\C#\\Sockets\\Socket_Cliente\\Socket_Cliente.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JoseTello\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.13\\microsoft.netcore.app.runtime.linux-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\JoseTello\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.13\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\JoseTello\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.13\\microsoft.netcore.app.host.linux-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
